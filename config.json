@@ -12,13 +12,13 @@
   "antiInbox": false,
   "language": "en",
   "notesLanguage": "change to your language with ISO 639-1 code, available languages: vi (Vietnamese), en (English)",
-  "nickNameBot": "🍫🍭𝐖𝐀𝐆𝐔𝐑𝐈-𝐂𝐇𝐀𝐍 𝐕2💖✨🎀",
+  "nickNameBot": "🍫🍭𝐖𝐀𝐆𝐔𝐑𝐈-𝐂𝐇𝐀𝐍 💖✨🎀",
   "prefix": ":",
   "adminOnly": {
     "enable": false,
     "ignoreCommand": []
   },
-  "adminBot": ["100078792977084","61588296072377","61589263184586"],
+  "adminBot": ["61569900115739","61588296072377","61589263184586"],
   "whiteListMode": {
     "enable": false,
     "whiteListIds": ["100078792977084"],
@@ -167,6 +167,6 @@
   "Arafat": {
     "api": "https://arafatas.vercel.app",
     "version": "1.0.4",
-    "author": "ARAFAT"
+    "author": "ANNU"
   }
 }
